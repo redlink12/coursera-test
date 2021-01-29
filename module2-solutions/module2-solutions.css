@@ -22,7 +22,6 @@ h2 {
     font-style: italic;
 }
 #chicken {
-    background-color: gray;
     margin: 10px;
     padding-left: 10px;
     border: 1px solid black;
@@ -34,7 +33,7 @@ h2 {
  }
 
 #beef {
-     background-color: gray;
+    
     margin: 10px;
     border: 1px solid black;
     height: 100%;
@@ -44,7 +43,7 @@ h2 {
     background-color: pink;
 }
 #sushi{
-     background-color: gray;
+   
     margin: 10px;
     border: 1px solid black;
     height: 100%;
