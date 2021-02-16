@@ -43,3 +43,6 @@ body {
     padding: 5px;
     text-align: center;
 }
+
+@media(min-width: 678px;) {
+    ul { display:hidden:}}
