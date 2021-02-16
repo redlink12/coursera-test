@@ -43,3 +43,9 @@ body {
     padding: 5px;
     text-align: center;
 }
+
+@media (min-width:768px) {
+    ul{
+        display: none;
+    }
+}
